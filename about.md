@@ -28,3 +28,6 @@ Some fun facts about the setup of this project include:
 Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
 Thanks for reading!
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/fcasado/albums/72157685522794702" title="Desierto Florido"><img src="https://live.staticflickr.com/4410/37293171191_cdfce5d36f_h.jpg" width="500" height="332" alt="Desierto Florido"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+

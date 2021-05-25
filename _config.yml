@@ -24,10 +24,12 @@ permalink:        pretty
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 # Setup
-title:            Hola, soy Francisco
+title:            Francisco Casado
 tagline:          'Una página sobre las cosas que hago'
 description:      >- # this means to ignore newlines until "baseurl:"
-  En esta página cuento un poco de lo que hago y los proyectos en los que he trabajado.
+  Ingeniero Eléctrico, [hacedor](https://es.wikipedia.org/wiki/Cultura_maker) y carpintero amateur.<br>
+  Este es mi portafolio de proyectos en los que he colaborado.<br>
+  En mi [blog](https://blog.franciscocasado.cl) cuento más detalles de lo que hago
 
 #  A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> 
 #  theme that pairs a prominent sidebar with uncomplicated content. 
@@ -41,7 +43,7 @@ author:
 
 email: hola@franciscocasado.cl
 
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.franciscocasado.cl" # the base hostname & protocol for your site, e.g. http://example.com
 
 paginate:         5
 
