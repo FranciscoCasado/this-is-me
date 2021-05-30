@@ -55,6 +55,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-github-metadata
+  - jemoji
 
 # Exclude from processing.
 # The following items will not be processed, by default.
