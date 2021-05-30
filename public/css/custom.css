@@ -1,0 +1,6 @@
+.thumbnail {
+    display: block;
+    max-width: 15rem;
+    margin: 0 0 1rem;
+    border-radius: 5px;
+}

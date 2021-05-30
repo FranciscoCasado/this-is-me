@@ -11,7 +11,12 @@ title: Home
         {{ post.title }}
       </a>
     </h1>
-    {{ post.content }}
+    <span>
+        <img src="{{ '/' | relative_url }}{{ post.thumbnail }} " class="thumbnail" alt="">
+    </span>
+    <span>
+      {{post.summary}}
+    </span>
   </div>
   {% endfor %}
 </div>
