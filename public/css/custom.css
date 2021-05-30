@@ -10,3 +10,10 @@
     max-width: 16px;
     margin: 0 0 0rem;
 }
+
+img.emoji {
+    display: inline;
+    height: 1em;
+    width: 1em;
+    margin-bottom: 0em;
+    }
