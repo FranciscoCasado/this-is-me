@@ -11,12 +11,13 @@ title: Home
         {{ post.title }}
       </a>
     </h1>
-    <span>
-        <img src="{{ '/' | relative_url }}{{ post.thumbnail }} " class="thumbnail" alt="">
-    </span>
-    <span>
+    <div>
+      <p class="post-datef">{{post.date | date: "%Y" }}</p>
+    </div>
+    <div>
       {{post.summary}}
-    </span>
+      <img src="{{ '/' | relative_url }}{{ post.thumbnail }} " class="thumbnail" alt="">
+    </div>
   </div>
   {% endfor %}
 </div>
