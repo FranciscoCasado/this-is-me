@@ -1,14 +1,22 @@
 ---
 layout: post
-title: "Sh*tty Robots"
+title: "Sh*tty Robots: robots mediocres, pero con buenas intenciones "
 categories: docencia
 summary: "Si les estudiantes no pueden venir a la Universidad, la Universidad puede ir a sus casas"
-date: 2020-08-01 
+date: 2020-08-01
 thumbnail: "assets/img/shitty.jpg"
 ---
 
-## Equipo Docente
 
+<img src="{{ '/' | relative_url }}{{page.thumbnail}}">
+
+
+## Equipo Docente
+María José Alfaro []()<br> 
+Ulises Campodónico [:link:](https://www.linkedin.com/in/ulises2111/)<br> 
+Cristóbal Mesías [:link:](https://github.com/cmesiasd)<br> 
+Fernanda Sanchirico [:link:](https://www.linkedin.com/in/fernanda-sanchirico-barrera-8b25341a4)<br> 
+Leslie Cárdenas
 
 
 ## La historia de cómo surgió
