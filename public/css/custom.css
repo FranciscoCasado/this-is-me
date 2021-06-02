@@ -17,3 +17,15 @@ img.emoji {
     width: 1em;
     margin-bottom: 0em;
     }
+
+.category-tag {
+    font-size: 12px;
+    font-weight: 500;
+    color: whitesmoke;
+    background: rgba(54, 131, 175, 0.884);
+    border: rgb(43, 128, 177) solid thin;
+    border-radius: 4px;
+    padding: 0em 0.5em ;
+    margin: 1em 0em;
+}
+

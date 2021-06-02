@@ -14,6 +14,7 @@
 
 # Permalinks
 permalink:        pretty
+permalink: /:categories/:title/
 #relative_permalinks: true
 
 # Custom vars
@@ -80,3 +81,4 @@ plugins:
 # version:          X.X.X   # Show "Currently vX.X.X in the sidebar"
 # github:                   # Show the GitHub project page
 #  repo:           https://github.com/FranciscoCasado/this-is-me
+
