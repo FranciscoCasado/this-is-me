@@ -28,9 +28,6 @@ permalink: /:categories/:title/
 title:            Francisco Casado
 tagline:          'Una página sobre las cosas que hago'
 description:      >- # this means to ignore newlines until "baseurl:"
-  Ingeniero Eléctrico, [hacedor](https://es.wikipedia.org/wiki/Cultura_maker) y carpintero amateur.<br>
-  Este es mi portafolio de proyectos en los que he colaborado.<br>
-  En mi [blog](https://blog.franciscocasado.cl) cuento más detalles de lo que hago
 
 #  A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> 
 #  theme that pairs a prominent sidebar with uncomplicated content. 

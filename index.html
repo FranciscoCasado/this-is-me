@@ -4,17 +4,29 @@ title: Home
 ---
 
 <div class="posts">
+
+  <div>
+    <p>Ingeniero Eléctrico, <a href="https://es.wikipedia.org/wiki/Cultura_maker">hacedor</a> y aficionado a varios
+      oficios.</p>
+    <p>Este es mi portafolio de proyectos en los que he trabajado.
+      Tengo un <a href="https://blog.franciscocasado.cl"><b>blog</b></a> donde cuento más detalles de lo que hago y las
+      ideas que tengo en mente.</p>
+    <hr>
+  </div>
+
+  <h1>Proyectos</h1>
   {% for post in paginator.posts %}
   <div class="post">
-    <h1 class="post-title">
+    <h2 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
       </a>
-    </h1>
-    <div>
-      <p class="post-date">{{post.date | date: "%Y" }}</p>
-    </div>
       <span class="category-tag"> {{ post.categories | first }} </span>
+    </h2>
+    <div>
+      <p class="post-date">{{post.date | date: "%Y" }}
+    </p>
+    </div>
     <div>
       {{post.summary}}
       <img src="{{ '/' | relative_url }}{{ post.thumbnail }} " class="thumbnail" alt="">
