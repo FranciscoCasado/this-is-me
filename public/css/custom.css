@@ -29,3 +29,19 @@ img.emoji {
     margin: 1em 0em;
 }
 
+.socials img{
+    width: 1.4em;
+    color: whitesmoke;
+    display: inline;
+    filter: invert(1);
+    margin-bottom: 0;
+    border-radius: 3px;
+}
+
+.socials img:hover{
+    background-color: #d47f4e;
+}
+
+.socials a:hover{
+    text-decoration: none;
+}
