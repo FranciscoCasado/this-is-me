@@ -45,3 +45,7 @@ img.emoji {
 .socials a:hover{
     text-decoration: none;
 }
+
+.post {
+    border: thick;
+}
