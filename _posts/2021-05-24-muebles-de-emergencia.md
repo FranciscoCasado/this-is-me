@@ -3,7 +3,7 @@ layout: post
 title: Muebles de Emergencia
 date: 2019-04-01
 summary: "Amoblar un hogar es caro para alguien que recien egresa"
-thumbnail: "assets/img/librero.png"
+thumbnail: "assets/img/muebles_thumb.png"
 ---
 Terminé mi carrera, comencé a trabajar, me independicé y me hallé en un departamento vacío sin donde poner mis (pocas) cosas. Después de una vida viendo a mi papá hacer repisas y uno que otro estante para su casa, creo que siempre quise aprender a *hacer* muebles. Así emprendí el camino por la carpintería.
 
@@ -19,7 +19,7 @@ Muebles absúrdamente baratos, fines de semana entretenidos y tema de conversaci
 También evito comprar muebles en el retail: los que puedo pagar son de mala calidad. Los caros no lo valen. Les carpinteres locales hacen muy buen trabajo, pero no lo puedo pagar.
 
 
-![librero]({{ '/' | relative_url }}{{page.thumbnail}})
+![librero]({{ '/' | relative_url }}assets/img/muebles.png)
 
 
 ## Cómo he ido aprendiendo

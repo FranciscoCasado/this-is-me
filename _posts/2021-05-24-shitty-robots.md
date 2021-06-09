@@ -2,7 +2,7 @@
 layout: post
 title: "Sh*tty Robots "
 summary: "Robots mediocres, pero con buenas intenciones"
-thumbnail: "assets/img/shitty.jpg"
+thumbnail: "assets/img/shitty_thumb.png"
 date: 2020-08-01
 ---
 
@@ -10,7 +10,7 @@ date: 2020-08-01
 
 En mi [blog](https://blog.franciscocasado.cl/2021/06/08/shitty-robots-como-surgio/) cuento la historia de cómo surgió.
 
-![kit de materiales]({{ '/' | relative_url }}{{page.thumbnail}})
+![kit de materiales]({{ '/' | relative_url }}assets/img/shitty.png)
 
 ## Qué es
 
