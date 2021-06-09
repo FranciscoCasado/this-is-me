@@ -8,6 +8,8 @@ date: 2020-08-01
 
 *Ante la imposibilidad de ir presencialmente a la facultad durante la pandemia, junto a un equipo interdisciplinario de ayudantes creamos un curso, material on-line y kits robótica para que estudiantes de 2do año de la [FCFM](https://ingenieria.uchile.cl/) pudiera aprender desde sus casas, todo en modalidad de clases remotas.*
 
+En mi [blog](https://blog.franciscocasado.cl/2021/06/08/shitty-robots-como-surgio/) cuento la historia de cómo surgió.
+
 ![kit de materiales]({{ '/' | relative_url }}{{page.thumbnail}})
 
 ## Qué es
