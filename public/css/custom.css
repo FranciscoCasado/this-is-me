@@ -1,13 +1,38 @@
 .thumbnail {
     display: block;
-    max-width: 270px;
     margin: 0 0 1rem;
     border-radius: 5px;
 }
 
-@media (min-width) {
+@media (max-width: 420px) {
     .thumbnail {
-        max-width: 240px;
+        max-width: 72%;
+    }
+
+    .post a .post-title{
+        position: absolute;
+        top: 12px;
+        left: 47%;
+    }
+    .post a .post-date, .post-summary {
+        position: absolute;
+        left: 78%;
+    }
+}
+@media (min-width: 420px) {
+    .thumbnail {
+        max-width: 270px;
+        
+    }
+    .post a .post-title{
+        position: absolute;
+        top: 12px;
+        left: 200px;
+    }
+
+    .post a .post-date, .post-summary {
+        position: absolute;
+        left: 290px;
     }
 }
 
@@ -62,9 +87,6 @@ img.emoji {
 
 
 .post a .post-title{
-    position: absolute;
-    top: 12px;
-    left: 200px;
     color: rgba(245, 245, 245, 0.94);
     background-color: #6a9fb5fa;
     padding: 0.2em 0.5em;
@@ -76,14 +98,12 @@ img.emoji {
     position: absolute;
     color: #313131;
     top: 82px;
-    left: 290px;
 }
 
 .post a .post-date {
     margin: 0;
     position: absolute;
     top: 56px;
-    left: 290px;
     
 }
 
