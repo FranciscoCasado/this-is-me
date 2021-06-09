@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "Sh*tty Robots: robots mediocres, pero con buenas intenciones "
-categories: docencia
-summary: "Si les estudiantes no pueden venir a la Universidad, la Universidad puede ir a sus casas"
-date: 2020-08-01
+title: "Sh*tty Robots "
+summary: "Robots mediocres, pero con buenas intenciones"
 thumbnail: "assets/img/shitty.jpg"
+date: 2020-08-01
 ---
 
 

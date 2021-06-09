@@ -1,8 +1,14 @@
 .thumbnail {
     display: block;
-    max-width: 15rem;
+    max-width: 270px;
     margin: 0 0 1rem;
     border-radius: 5px;
+}
+
+@media (min-width) {
+    .thumbnail {
+        max-width: 240px;
+    }
 }
 
 .icon {
@@ -47,5 +53,40 @@ img.emoji {
 }
 
 .post {
-    border: thick;
+    position: relative;
+}
+
+.post-summary{
+    color: #313131d5;
+}
+
+
+.post a .post-title{
+    position: absolute;
+    top: 12px;
+    left: 200px;
+    color: rgba(245, 245, 245, 0.94);
+    background-color: #6a9fb5fa;
+    padding: 0.2em 0.5em;
+    border-radius: 3px;
+    box-shadow: 2px 2px 5px gray;
+}
+
+.post a .post-summary {
+    position: absolute;
+    color: #313131;
+    top: 82px;
+    left: 290px;
+}
+
+.post a .post-date {
+    margin: 0;
+    position: absolute;
+    top: 56px;
+    left: 290px;
+    
+}
+
+.post h2:hover{
+    background-color: rgba(54, 131, 175, 0.95);
 }

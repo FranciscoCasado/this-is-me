@@ -6,23 +6,16 @@ title: Home
 <div class="posts">
 
 
-  <h1>Proyectos</h1>
   {% for post in paginator.posts %}
   <div class="post">
-    <h2 class="post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        {{ post.title }}
-      </a>
-      <span class="category-tag"> {{ post.categories | first }} </span>
-    </h2>
-    <div>
-      <p class="post-date">{{post.date | date: "%Y" }}
-    </p>
-    </div>
-    <div>
-      {{post.summary}}
+    <a href="{{ site.baseurl }}{{ post.url }}">
       <img src="{{ '/' | relative_url }}{{ post.thumbnail }} " class="thumbnail" alt="">
-    </div>
+      <h2 class="post-title">
+        {{ post.title }}
+      </h2>
+        <p class="post-date">{{post.date | date: "%Y" }}</p>
+        <p class="post-summary">{{post.summary}}</p>
+    </a>
   </div>
   {% endfor %}
 </div>
