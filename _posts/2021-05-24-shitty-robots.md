@@ -6,26 +6,42 @@ thumbnail: "assets/img/shitty.jpg"
 date: 2020-08-01
 ---
 
+*Ante la imposibilidad de ir presencialmente a la facultad durante la pandemia, junto a un equipo interdisciplinario de ayudantes creamos un curso, material on-line y kits robótica para que estudiantes de 2do año de la [FCFM](https://ingenieria.uchile.cl/) pudiera aprender desde sus casas, todo en modalidad de clases remotas.*
 
-<img src="{{ '/' | relative_url }}{{page.thumbnail}}">
+![kit de materiales]({{ '/' | relative_url }}{{page.thumbnail}})
 
+## Qué es
 
+Sh*tty Robots comprende varias herramientas pedagógicas para que estudiantes puedan aprender robótica: 
+- Un programa de clases en formato on-line sobre fundamentos de diseño y fabricación de robots: cinemática, dinámica, mecanismo, materiales, electrónica, micro-controladores, sensores & actuadores y programación.
+- Un *kit* de piezas y componentes electrónicos para aprender los contenidos del curso de manera prática. Está todo pensado para que se pueda diseñar y armar un robot completamente funcional, sin requerir herramientas ni instrumentos de laboratorio.
+
+## Por qué lo hicimos
+
+No podíamos dejar que una generación completa de estudiantes de segundo año no tuviera acceso a aprender robótica de manera práctica. El segundo año de la facultad se caracteriza por tener ramos temáticos de proyecto y siempre se abren secciones de robótica, pero la pandemia amenazaba con eliminar esa oferta de cursos... pero nosotres logramos revertirlo :muscle:
+
+## Las clases
+Todos los viernes nos conectamos entre las ~14:30 y las 18:00 horas para hacer las clases:
+- El primer bloque tenía clases expositivas de corta duración, más la muestra de un ejemplo básico de la tarea que debía realizarse en el segundo bloque.
+- El segundo bloque era trabajo individual, pero con todo el curso conectado por [Discord](https://discord.com/) para que el equipo docente respondiera dudas. Las tareas tenían plazo de una semana y eran formativas, es decir, no tenían nota
+- A pesar de no tener nota, dabamos feedback en cada entrega y fue de las cosas más valoradas del curso.
+
+## El kit de materiales
+Quisimos replicar un actuador lineal de bajísimo costo, similar a los ejes de máquinas CNC, como impresoras 3d (ej: [Ender 3](https://www.creality.com/es/goods-detail/ender-3-3d-printer?gclid=CjwKCAjwqvyFBhB7EiwAER786XloYzZ1jwpa8iFu_ilYFyBUMy8_c2-glb3XtRkkbnOUDny0OErrixoCaWEQAvD_BwE)) o una fresadora de escritorio (ej: [Shopbot Desktop](https://www.shopbottools.com/products/desktop))
+
+Ocupamos como base un perfil de alumnio tipo V-Slot y sobre eso diseñamos piezas impresas en 3d, piezas para corte laser y piezas para fresado CNC, las cuales permitian añadir y soportar diferentes componentes mecánicos, tales como rodamientos, ejes, correas, etc., y electrónicos, talos como un arduino, motores paso a paso, servomotores, motores DC, sensores y luces LED.
 ## Equipo Docente
-María José Alfaro []()<br> 
-Ulises Campodónico [:link:](https://www.linkedin.com/in/ulises2111/)<br> 
-Cristóbal Mesías [:link:](https://github.com/cmesiasd)<br> 
-Fernanda Sanchirico [:link:](https://www.linkedin.com/in/fernanda-sanchirico-barrera-8b25341a4)<br> 
-Leslie Cárdenas
 
+Profesor del curso: Francisco Casado (yo)
 
-## La historia de cómo surgió
-Es Junio de 2020, a un mes de cerrar el catálogo de cursos del semestre primavera. Hay una pandemia afuera que impide que les estudiantes puedan venir a la facultad a usar los laboratorios, sus equipos y materiales. Este año toca actualizar los cursos de proyectos de segundo año; lo que antes se conocía como *Taller de Proyecto*, ahora es reemplazado por *Módulos Interdisciplinarios*, cursos cuya exigencia base es incorporar el trabajo de múltiples disciplinas. El coordinador de los cursos me escribe preguntando qué secciones dictará mi oficina, pues llevamos varios años generando cursos para que habiten en ese espacio curricular. También me comenta que tenemos un presupuesto asignado por cada estudiante que inscriba el curso; es bastante más de lo que se da en un curso usual.
+Ayudantes:
+- María José Alfaro []()<br> 
+- Ulises Campodónico [:link:](https://www.linkedin.com/in/ulises2111/)<br> 
+- Cristóbal Mesías [:link:](https://github.com/cmesiasd)<br> 
+- Fernanda Sanchirico [:link:](https://www.linkedin.com/in/fernanda-sanchirico-barrera-8b25341a4)<br> 
+- Leslie Cárdenas
 
-El curso que me toca dictar a mi es *Construye tu Battlebot*. El objetivo del curso es que les estudiantes formen equipos y puedan *hacer*, con sus propias manos, un robot de pelea que, al final del semestre, se batirá en duelo a muerte con sus contendores. No hay clases, excepto la inicial para conocer las reglas de la pelea y alguna que otra capacitación ocasional sobre herramientas específicas, y todas las actividades se centran en que les estudiantes vengan al taller o al [FabLab](http://fablab.uchile.cl) para diseñar y construir. Llegan con escaso o nulo conocimiento de electrónica, diseño de mecanismos y fabricación, pero terminan con peleadores que dan miedo (un poco por lo artesanal y otro poco por lo realmente peligrosos que son).
+## Colaboraron
 
-Leo de nuevo el correo y me doy cuenta que será imposible, no solo por que no se puedan armar los robots en la facultad, sino porque el objetivo de aprendizaje del curso es imposible de lograr si no hay una pelea donde se puedan poner a prueba las creaciones. En este hito se asientan varios aprendizajes que parecen desorganizados, pero que cada estudiante logra en su propio camino, con nuestra ayuda. 
-
-Después de reponerme del shock, pienso *"¿y si con el presupuesto compramos materiales y se los enviamos a cada casa?*. Este semestre obligó a la facultad a enviar herramientas de estudio (notebooks, tablets, chips de internet, entre otras), así que parecía viable. Consulto con las personas que coordinaron esos envíos y me dicen que es perfectamente posible, pero hay que tener cuidado al recopilar las direcciones, para asegurar que lleguen los items. 
-Cotizo cuanto sale un envío a punta arenas y lo descueto del presupuesto por estudiante. Cotizo algunas partes electrónicas básicas y calzan los números: *"si logramos un kit de menos de 30 mil pesos por estudiante, la hacemos... no es lo ideal, pero se puede aprender bien, con materiales baratos"*.
-
-Ok, resuelto el problema de poder *hacer* un robot, pero *¿qué robot pueden hacer? ¿Cómo lo van a armar si están en distitans regiones del país? ¿Qué sentido tiene que armen algo que después no va a poder pelear?* Aunque armaran los robots, es imposible que vengan todes desde distintas partes de Chile, solo a hacer que sus robots entren en contacto. Y no tiene sentido que envíen sus robots y que no estén presencialmente para verlos pelear. Llamo por Telegram a [Matías Mattamala](https://mmattamala.github.io/) (quien me heredó su puesto de trabajo y dictaba el curso antes de que yo llegara; ahora está en Oxford haciendo su PhD en robótica y le pregunto qué puedo hacer. Conversamos un rato sobre cómo generamos esa instancia tan valiosa que es la exhibición... a los 20 minutos de conversa me dice *"tení' que hacer Shitty Robots"*. Aquí se arma todo: equipos de 3 personas, cada una con un kit de materiales idénticos, ¿el objetivo? hacer no uno, sino 3 robots identicos, pero en distintas partes de Chile, que desempeñen una sola tarea... o que al menos lo intenten. ¿Qué tipo de tareas? Cualquiera de las que [Simone Giertz](https://www.instagram.com/simonegiertz/) estaría orgullosa: **Shitty Robots - robots mediocres, pero con buenas intenciones**.
+- [FabLab U de Chile #LoMásGrande](http://www.fablab.uchile.cl/)
+- [Hélice - Escuela de Ingeniería y Ciencias](https://helice.ing.uchile.cl/)
