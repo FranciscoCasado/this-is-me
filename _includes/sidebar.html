@@ -48,7 +48,7 @@
       {% if node.title != null %}
       {% if node.layout == "page" %}
       <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}"
-        href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
+        href="{{ site.baseurl }}{{ node.url }}">{{ node.sidebar-title }}</a>
       {% endif %}
       {% endif %}
       {% endfor %}
@@ -58,12 +58,5 @@
       -->
     </nav>
 
-    <p style="font-size: 0.7rem;">
-      <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="nc&quot;" width="16" height="16"
-        class="icon">
-      <img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="nc&quot;" width="16" height="16"
-        class="icon">
-      {{ site.time | date: '%Y' }}. Uso no-comercial permitido.
-    </p>
   </div>
 </div>

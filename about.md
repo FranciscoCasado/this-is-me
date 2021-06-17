@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Sobre mi
+sidebar-title: Sobre mi
 ---
 
 
