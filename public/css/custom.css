@@ -135,15 +135,45 @@ body {
     position: relative;
     bottom: 0;
     text-align: center;
-  }
+}
   
-  @media (min-width: 48em) {
+@media (min-width: 48em) {
     .ak-footer {
         text-align:start;
     }
-  }
+}
 
-  .pdf-viewer {
+.pdf-viewer {
     width: 100%;
     height: 800px;
-  }
+}
+
+
+.about-intro {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.about-intro .description{
+    justify-content: center;
+    margin: 0;
+    padding-right: 2em;
+}
+
+.about-intro .profile-pic {
+    border-radius: 50%;
+    display: block;
+    height: 200px;
+    width: 200px;
+    min-height: 200px;
+    min-width: 200px;
+}
+
+  
+@media (min-width: 48em) {
+    .about-intro {
+        flex-direction:row;
+        justify-content: start;
+    }
+}
+
