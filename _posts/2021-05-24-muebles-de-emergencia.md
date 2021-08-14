@@ -37,7 +37,7 @@ Aunque no tenga nada que ver con muebles, el tallado y  diseño de cucharas perm
 ### Cursos en Santiago, Chile
 Estos los he tomado y los recomiendo :100:
 
-1. [Maderística](https://www.maderistica.cl/): 
+- [Maderística](https://www.maderistica.cl/): 
 Lejos los mejores profesores de carpintería para principiantes en Chile: Patricio y Carlos. Llevan más de 8 años fabricando muebles a pedido y, hasta donde sé, llevan más de 1.000 (¡mil!) estudiantes en sus cursos.<br>
 Patricio tabmién tiene cursos en [Domestika](https://www.domestika.org/es/courses/557-carpinteria-profesional-para-principiantes). Es baratísimo y está muy bien depurado.
 
@@ -52,7 +52,7 @@ Patricio tabmién tiene cursos en [Domestika](https://www.domestika.org/es/cours
     </div>
 </section>
 
-2. [ShakuTaller](https://www.shakutaller.cl/): Taller de Tornería por Alejandro "Jano" Pérez. Su curso es de dos sesiones de 8 horas, donde se hace 1 ejercicio tornería para aprender los cortes básicos, 3 artefactos. Yo hice un uslero, una copa de madera y una peonza, que es una pirinola con el vástago largo, lo que la hace más inestable, pero muy bonita.
+- [ShakuTaller](https://www.shakutaller.cl/): Taller de Tornería por Alejandro "Jano" Pérez. Su curso es de dos sesiones de 8 horas, donde se hace 1 ejercicio tornería para aprender los cortes básicos, 3 artefactos. Yo hice un uslero, una copa de madera y una peonza, que es una pirinola con el vástago largo, lo que la hace más inestable, pero muy bonita.
 
 <section class="gallery">
     <div>
@@ -66,7 +66,7 @@ Patricio tabmién tiene cursos en [Domestika](https://www.domestika.org/es/cours
 </section>
 
 
-3. [Ettore Taller](https://www.ettoretaller.cl/): Escuela de lutería de Jorge Olate. Yo tomé el curso para hacer un *Ukelele Travel* (foto de abajo), que es un ukelele sin caja de resonancia, más corto y con una cápsula piezo-eléctrica pasiva para conectarlo a un amplificador. También puedes hacer un de *Charango Travel* (10 cuerdas) ó tomar clases semanales para hacer una guitarra clásica, bajo, acústico y charango trandicional. En su [instagram](https://www.instagram.com/ettoretaller/) puedes ver cómo trabaja.
+- [Ettore Taller](https://www.ettoretaller.cl/): Escuela de lutería de Jorge Olate. Yo tomé el curso para hacer un *Ukelele Travel* (foto de abajo), que es un ukelele sin caja de resonancia, más corto y con una cápsula piezo-eléctrica pasiva para conectarlo a un amplificador. También puedes hacer un de *Charango Travel* (10 cuerdas) ó tomar clases semanales para hacer una guitarra clásica, bajo, acústico y charango trandicional. En su [instagram](https://www.instagram.com/ettoretaller/) puedes ver cómo trabaja.
 
 <section class="gallery">
     <div>
