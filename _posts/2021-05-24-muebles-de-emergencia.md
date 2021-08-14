@@ -41,5 +41,36 @@ Estos los he tomado y los recomiendo :100:
 Lejos los mejores profesores de carpintería para principiantes en Chile: Patricio y Carlos. Llevan más de 8 años fabricando muebles a pedido y, hasta donde sé, llevan más de 1.000 (¡mil!) estudiantes en sus cursos.<br>
 Patricio tabmién tiene cursos en [Domestika](https://www.domestika.org/es/courses/557-carpinteria-profesional-para-principiantes). Es baratísimo y está muy bien depurado.
 
-2. [ShakuTaller](https://www.shakutaller.cl/): Taller de Tornería por Alejandro "Jano" Pérez
-3. [Ettore Taller](https://www.ettoretaller.cl/): Escuela de lutería de Jorge Olate
+<section class="gallery">
+    <div>
+        <img src="{{ '/' | relative_url }}assets/img/maderistica1.png">
+        <p class="caption">Nivel 1: Velador</p>
+    </div>
+    <div>
+        <img src="{{ '/' | relative_url }}assets/img/maderistica2.png">
+        <p class="caption">Nivel 2: Taburete</p>
+    </div>
+</section>
+
+2. [ShakuTaller](https://www.shakutaller.cl/): Taller de Tornería por Alejandro "Jano" Pérez. Su curso es de dos sesiones de 8 horas, donde se hace 1 ejercicio tornería para aprender los cortes básicos, 3 artefactos. Yo hice un uslero, una copa de madera y una peonza, que es una pirinola con el vástago largo, lo que la hace más inestable, pero muy bonita.
+
+<section class="gallery">
+    <div>
+        <img src="{{ '/' | relative_url }}assets/img/torno1.png">
+        <p class="caption">Copa</p>
+    </div>
+    <div>
+        <img src="{{ '/' | relative_url }}assets/img/torno2.png">
+        <p class="caption">Peonza</p>
+    </div>
+</section>
+
+
+3. [Ettore Taller](https://www.ettoretaller.cl/): Escuela de lutería de Jorge Olate. Yo tomé el curso para hacer un *Ukelele Travel* (foto de abajo), que es un ukelele sin caja de resonancia, más corto y con una cápsula piezo-eléctrica pasiva para conectarlo a un amplificador. También puedes hacer un de *Charango Travel* (10 cuerdas) ó tomar clases semanales para hacer una guitarra clásica, bajo, acústico y charango trandicional. En su [instagram](https://www.instagram.com/ettoretaller/) puedes ver cómo trabaja.
+
+<section class="gallery">
+    <div>
+        <img src="{{ '/' | relative_url }}assets/img/ukelele.png">
+        <p class="caption">Ukelele Travel</p>
+    </div>
+</section>

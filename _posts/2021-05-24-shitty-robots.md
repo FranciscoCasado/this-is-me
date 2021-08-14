@@ -20,7 +20,7 @@ Sh*tty Robots comprende varias herramientas pedagógicas para que estudiantes pu
 
 ## Por qué lo hicimos
 
-No podíamos dejar que una generación completa de estudiantes de segundo año no tuviera acceso a aprender robótica de manera práctica. El segundo año de la facultad se caracteriza por tener ramos temáticos de proyecto y siempre se abren secciones de robótica, pero la pandemia amenazaba con eliminar esa oferta de cursos... pero nosotres logramos revertirlo :muscle:
+No podíamos dejar que una generación completa de estudiantes de segundo año no tuviera acceso a aprender robótica de manera práctica. El segundo año de la facultad se caracteriza por tener ramos temáticos de proyecto y siempre se abren secciones de robótica, pero la pandemia amenazaba con eliminar esa oferta de cursos... ¡nosotres logramos revertirlo :muscle:!
 
 ## Las clases
 Todos los viernes nos conectamos entre las ~14:30 y las 18:00 horas para hacer las clases:
@@ -31,7 +31,7 @@ Todos los viernes nos conectamos entre las ~14:30 y las 18:00 horas para hacer l
 ## El kit de materiales
 Quisimos replicar un actuador lineal de bajísimo costo, similar a los ejes de máquinas CNC, como impresoras 3d (ej: [Ender 3](https://www.creality.com/es/goods-detail/ender-3-3d-printer?gclid=CjwKCAjwqvyFBhB7EiwAER786XloYzZ1jwpa8iFu_ilYFyBUMy8_c2-glb3XtRkkbnOUDny0OErrixoCaWEQAvD_BwE)) o una fresadora de escritorio (ej: [Shopbot Desktop](https://www.shopbottools.com/products/desktop))
 
-Ocupamos como base un perfil de alumnio tipo V-Slot y sobre eso diseñamos piezas impresas en 3d, piezas para corte laser y piezas para fresado CNC, las cuales permitian añadir y soportar diferentes componentes mecánicos, tales como rodamientos, ejes, correas, etc., y electrónicos, talos como un arduino, motores paso a paso, servomotores, motores DC, sensores y luces LED.
+Ocupamos como base un perfil de alumnio tipo V-Slot y sobre eso diseñamos piezas impresas en 3d, piezas para corte laser y piezas para fresado CNC, las cuales permitian añadir y soportar diferentes componentes mecánicos, tales como rodamientos, ejes, correas, etc., y electrónicos, tales como un arduino, motores paso a paso, servomotores, motores DC, sensores y luces LED.
 ## Equipo Docente
 
 Profesor del curso: Francisco Casado (yo)
