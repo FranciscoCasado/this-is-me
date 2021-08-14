@@ -52,7 +52,7 @@ Patricio tabmién tiene cursos en [Domestika](https://www.domestika.org/es/cours
     </div>
 </section>
 
-- [ShakuTaller](https://www.shakutaller.cl/): Taller de Tornería por Alejandro "Jano" Pérez. Su curso es de dos sesiones de 8 horas, donde se hace 1 ejercicio tornería para aprender los cortes básicos, 3 artefactos. Yo hice un uslero, una copa de madera y una peonza, que es una pirinola con el vástago largo, lo que la hace más inestable, pero muy bonita.
+- [ShakuTaller](https://www.shakutaller.cl/): Taller de Tornería por Alejandro "Jano" Pérez. Su curso es de dos sesiones de 8 horas, donde se hace 1 ejercicio tornería para aprender los cortes básicos y 3 artefactos. Yo hice un uslero, una copa de madera y una peonza, que es una pirinola con el vástago largo, lo que la hace más inestable, pero muy bonita.
 
 <section class="gallery">
     <div>
