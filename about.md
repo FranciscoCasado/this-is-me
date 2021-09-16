@@ -1,21 +1,21 @@
 ---
 layout: about
-title: Sobre mi
-sidebar-title: Sobre mi
+title: Sobre mí
+sidebar-title: Sobre mí
 ---
 
 
 ### Tengo un sueño
 >*"Que Chile tenga una industria de productos y sistemas tecnológicos de nivel mundial."*
 
-Hago clases para perseguir ese sueño, porque dicen que enseño *bien* y porque me gusta aprender de mis estudiantes. 
+Hago clases para perseguir ese sueño; también porque me han dicho que enseño *bien* y porque me gusta mucho aprender de mis estudiantes. 
 
 ### Uso computadores desde que tengo memoria
-Tuve la suerte de que mi madre trabajaba en un laboratorio de investigación en biotecnología. Compró un computador para la casa cuando yo tenía 5 años. Me hizo un correo electrónico a los 8 -que todavía ocupo-. Armé mi propio computador a los 12 y por cosas de la vida, aprendí a programar a los 13 años, pero en su momento no me llamó tanto la atención.
+Tuve la suerte de que mi madre trabajaba (aún lo hace) en un laboratorio de investigación en biotecnología. Compró un computador para la casa cuando yo tenía 5 años. Me hizo un correo electrónico a los 8 -que todavía ocupo-. Armé mi propio computador a los 12 y por cosas de la vida, aprendí a programar a los 13 años, pero en su momento no me llamó tanto la atención.
 
 Hace poco me enamoré de la computación, cuando me dí cuenta que entiendo cómo funcionan los computadores y que caí en cuenta del impacto de su explosivo desarrollo en el útlimo siglo. Esta página la hice porque sentí que era necesario aprender y estar al día con las tecnologías del momento.
 ### Me fascinan los oficios y las artes
-Cuando tenía como 7 años regalaron un librito para hacer figuras de origami. Desde entonces he desarrollado una pasión por fabricar objetos con mis propias manos y me encanta aprender técnicas diferentes -aunque me considero hábil en pocas-.  Si no hubiese estudiado ingeniería, habría estudiado diseño industrial.
+Cuando tenía como 7 años regalaron un librito para hacer figuras de origami. Desde entonces he desarrollado una pasión por *fabricar* objetos con mis propias manos y me encanta aprender técnicas diferentes -aunque me considero hábil en pocas-.  Si no hubiese estudiado ingeniería, habría estudiado diseño industrial.
 
 Ahora último -gracias a lo que estudié- he aprendido técnicas digitales para diseñar y fabricar. En mi [blog](https://blog.franciscocasado.cl) escribo un poco de esto.
 
