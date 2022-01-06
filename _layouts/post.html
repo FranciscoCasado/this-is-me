@@ -13,7 +13,7 @@ layout: default
   <h2>Otros Proyectos</h2>
   <ul class="related-posts">
     {% assign related = site.related_posts | where:"lang", page.lang %}
-    {% for post in site.related_posts limit:3 %}
+    {% for post in related limit:3 %}
       <li>
         <h3>
           <a href="{{ post.url }}">
