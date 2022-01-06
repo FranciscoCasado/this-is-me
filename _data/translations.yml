@@ -2,7 +2,6 @@ chooseLanguage:
   en: "Lee este sitio en otro idioma"
   es: "Read this site in other language"
 
-navTitles:
-  About:
-    en: "About"
-    es: "Sobre mí"
+brief:
+  es: "Ingeniero Eléctrico, docente, <a href=\"https://es.wikipedia.org/wiki/Cultura_maker\">hacedor</a> y aficionado a varios oficios."
+  en: "Electrical Engineer, educator, <a href=\"https://en.wikipedia.org/wiki/Maker_culture\">maker</a> & crafts enthusiast."

@@ -1,3 +1,5 @@
+{% include page_lang.html %}
+
 <div class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
@@ -6,13 +8,8 @@
           {{ site.title }}
         </a>
       </h1>
-      <p class="lead">{{ site.description | liquify | markdownify}}</p>
-
-      <div>
-        <p>Ingeniero Eléctrico, docente, <a href="https://es.wikipedia.org/wiki/Cultura_maker">hacedor</a> y aficionado
-          a varios
-          oficios.</p>
-
+      <div class="brief">
+        {{ site.data.translations['brief'][page_lang] | liquify }}
       </div>
     </div>
 
@@ -35,47 +32,22 @@
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}"
-        href="{{ '/' | relative_url }}">Home</a>
-      <a class="sidebar-nav-item" href="https://blog.franciscocasado.cl/">Blog</a>
       {% comment %}
       The code below dynamically generates a sidebar nav of pages with
       `layout: page` in the front-matter. See readme for usage.
       {% endcomment %}
 
-      {% assign pages_list = site.pages | where:"lang", page.lang %}
+      {% assign pages_list = site.pages | where:"lang", page_lang | sort: "nav-order" %}
       {% for node in pages_list %}
         {% if node.sidebar-title != null %}
-          {% if node.layout != "index" %}
             <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}"
               href="{{ site.baseurl }}{{ node.url }}">{{ node.sidebar-title }}</a>
-          {% endif %}
         {% endif %}
       {% endfor %}
-      <!--<a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
-      <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
-      -->
+      
+      <a class="sidebar-nav-item" href="https://blog.franciscocasado.cl/">Blog</a>
     </nav>
-    {% if page.layout != 'index' and page.layout != 'not_found' %}
-      {% assign posts=site.posts | where:"lang-ref", page.lang-ref | sort: 'lang' %}
-      {% if posts.size == 0 %}
-        {% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
-      {% endif %}
-      {% if posts.size > 1 %}
-        <div class="lang-options">
-          <div>
-            {{ site.data.translations['chooseLanguage'][page.lang]}}
-          </div>
-          <div>
-            {% for post in posts %}
-            <span><a href="{{ site.base-url }}{{ post.url }}" class="{{ post.lang }}" title="View in {{post.lang}}">{{
-                site.data.languages[post.lang].icon }}</a></span>
-            {% endfor %}
-          </div>
-        </div>
-      {% endif %}
-    {% endif %}
+
 
   </div>
 </div>

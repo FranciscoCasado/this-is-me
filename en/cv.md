@@ -2,6 +2,7 @@
 layout: page
 title: Curriculum Vitae
 sidebar-title: CV
+nav-order: 3
 lang: en
 lang-ref: cv
 ---

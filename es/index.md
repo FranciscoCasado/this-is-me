@@ -1,5 +1,8 @@
 ---
 layout: index
-title: Latest Posts
-lang: en
+title: Home
+sidebar-title: Home
+nav-order: 1
+lang: es
+lang-ref: home
 ---

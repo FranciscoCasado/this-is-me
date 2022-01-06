@@ -211,3 +211,16 @@ body {
     font-style: italic;
     text-align: center;
 }
+
+.choose_lang {
+    text-align: right;
+    font-size: small;
+    font-style: italic;
+    color:#aaa;
+    
+}
+
+.choose_lang span {
+    font-style: normal;
+    border-radius: 50%;
+}

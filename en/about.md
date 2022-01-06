@@ -1,7 +1,8 @@
 ---
 layout: about
-title: Sobre mí
-sidebar-title: Sobre mí
+title: About
+sidebar-title: About
+nav-order: 2
 lang: en
 lang-ref: about
 ---
