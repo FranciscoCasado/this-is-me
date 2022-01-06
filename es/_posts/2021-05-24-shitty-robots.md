@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Sh*tty Robots "
+lang: es
+lang-ref: shitty-robots
 summary: "Robots mediocres, pero con buenas intenciones"
 thumbnail: "assets/img/shitty_thumb.png"
 date: 2020-08-01

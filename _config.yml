@@ -43,7 +43,8 @@ email: hola@franciscocasado.cl
 
 url: "https://www.franciscocasado.cl" # the base hostname & protocol for your site, e.g. http://example.com
 
-paginate:         5
+# Multilingual
+paginate:         10
 
 
 # Build settings

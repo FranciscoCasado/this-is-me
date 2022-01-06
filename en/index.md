@@ -1,5 +1,5 @@
 ---
 layout: index
-sidebar-title: Home
+title: Latest Posts
 lang: es
 ---

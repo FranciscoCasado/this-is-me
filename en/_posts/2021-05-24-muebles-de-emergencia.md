@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Muebles de Emergencia
+title: Emergency Furniture
 date: 2019-04-01
+lang: en
+lang-ref: muebles
 summary: "Amoblar un hogar es caro para alguien que recien egresa"
 thumbnail: "assets/img/muebles_thumb.png"
 ---

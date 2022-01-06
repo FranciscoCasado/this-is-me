@@ -8,11 +8,12 @@
       </h1>
       <p class="lead">{{ site.description | liquify | markdownify}}</p>
 
-  <div>
-    <p>Ingeniero Eléctrico, docente, <a href="https://es.wikipedia.org/wiki/Cultura_maker">hacedor</a> y aficionado a varios
-      oficios.</p>
-   
-  </div>
+      <div>
+        <p>Ingeniero Eléctrico, docente, <a href="https://es.wikipedia.org/wiki/Cultura_maker">hacedor</a> y aficionado
+          a varios
+          oficios.</p>
+
+      </div>
     </div>
 
     <div class="socials">
@@ -22,12 +23,12 @@
         </a>
       </span>
       <span>
-        <a href="https://www.linkedin.com/in/fcasadoc/" target="_blank" >
+        <a href="https://www.linkedin.com/in/fcasadoc/" target="_blank">
           <img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/linkedin.svg" alt="GitHub">
         </a>
       </span>
       <span>
-        <a href="mailto:hola@franciscocasado.cl"  >
+        <a href="mailto:hola@franciscocasado.cl">
           <img src="{{ '/' | relative_url }}assets/img/mail.svg" alt="Correo">
         </a>
       </span>
@@ -36,29 +37,45 @@
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}"
         href="{{ '/' | relative_url }}">Home</a>
-        <a class="sidebar-nav-item"
-        href="https://blog.franciscocasado.cl/">Blog</a>
+      <a class="sidebar-nav-item" href="https://blog.franciscocasado.cl/">Blog</a>
       {% comment %}
       The code below dynamically generates a sidebar nav of pages with
       `layout: page` in the front-matter. See readme for usage.
       {% endcomment %}
 
-      {% assign pages_list = site.pages %}
+      {% assign pages_list = site.pages | where:"lang", page.lang %}
       {% for node in pages_list %}
       {% if node.title != null %}
-      {% if node.layout == "page" %}
+      {% if node.layout == "page" or node.layout == "about" %}
       <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}"
         href="{{ site.baseurl }}{{ node.url }}">{{ node.sidebar-title }}</a>
       {% endif %}
       {% endif %}
       {% endfor %}
-      <a class="sidebar-nav-item"
-      href="https://franciscocasado.cl/about">Sobre mí</a>
       <!--<a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
       <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
       <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
       -->
     </nav>
+    {% if page.layout != 'index' %}
+    {% assign posts=site.posts | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+    {% if posts.size == 0 %}
+    {% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+    {% endif %}
+    {% if posts.size > 1 %}
+    <div class="lang-options">
+      <div>
+        {{ site.data.translations['chooseLanguage'][page.lang]}}
+      </div>
+      <div>
+        {% for post in posts %}
+        <span><a href="{{ site.base-url }}{{ post.url }}" class="{{ post.lang }}" title="View in {{post.lang}}">{{
+            site.data.languages[post.lang].icon }}</a></span>
+        {% endfor %}
+      </div>
+    </div>
+    {% endif %}
+    {% endif %}
 
   </div>
 </div>
