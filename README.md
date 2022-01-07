@@ -8,5 +8,5 @@ Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a pro
 I have implemented Jekyll Multilingual support by following [this guide](https://forestry.io/blog/creating-a-multilingual-blog-with-jekyll/) by [DJ Walker](https://github.com/dwalkr). He provides also provides a [sample site repo](https://github.com/dwalkr/jekyll-multilingual).
 
 ## License
-You can use any line of code you find useful in this repo, as long as you comply with de [MIT license](LICENSE.md), **however** photos and assets cannot be used for non-commercial purposes.
+You can use any line of code you find useful in this repo, as long as you comply with de [MIT license](LICENSE.md), **however** photos and assets cannot be used for commercial purposes.
 
