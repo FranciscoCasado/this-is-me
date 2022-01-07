@@ -7,8 +7,16 @@ lang: es
 lang-ref: about
 ---
 
+<div class="about-intro">
+    <div class="description">
+        <h2>Hola!</h2>
+        <p>Mi nombre es Francisco, soy ingeniero eléctrico de profesión y me encanta cuando la tecnología se pone al servicio de las personas.</p>
+        <p>Hago clases en la Universidad de Chile desde 2019 y me dedico a promover y guiar proyectos estudiantiles de innovación tecnológica.</p>
+    </div>
+    <img src="{{ '/' | relative_url }}assets/img/me.png" class="profile-pic">
+</div>
 
-### Tengo un sueño
+### Tengo un sueño:
 >*"Que Chile tenga una industria de productos y sistemas tecnológicos de nivel mundial."*
 
 Hago clases para perseguir ese sueño; también porque me han dicho que enseño *bien* y porque me gusta mucho aprender de mis estudiantes. 
