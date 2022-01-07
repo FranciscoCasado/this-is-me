@@ -4,7 +4,7 @@ title: Emergency Furniture
 date: 2019-04-01
 lang: en
 lang-ref: muebles
-summary: "Furnish a home is very expensive for someone who just graduated"
+summary: "Furnish a home is very expensive for someone who has just graduated"
 thumbnail: "assets/img/muebles_thumb.png"
 ---
 I finished my major, started working, became financially independent from my parents and found myself in an empty apartment, with no places to store my stuff. After watching my dad making ledges and shelfs my entire life, I think I have always wanted to learn how to *make* furniture. That's how I started the way through woodworking.
@@ -18,7 +18,7 @@ I have already done half of the that I have in my place. They are, before everyt
 
 Absurdly inexpensive furniture, entertaining weekends and conversation starters for friends that come to my home.
 
-Also, I avoid buying retail furniture: the quality of the ones that I can afford is awful. The more expensive ones are not worth the price. There many talented woodworkers in Chile, making excellent pieces, buy I definitely cannot afford them :pensive:
+Also, I avoid buying retail furniture: the quality of the ones that I can afford is awful. The more expensive ones are not worth the price. There are many talented woodworkers in Chile making excellent pieces, but I definitely cannot afford them :pensive:
 
 
 ![librero]({{ '/' | relative_url }}assets/img/muebles.png)
@@ -54,7 +54,7 @@ Patricio also has courses in [Domestika](https://www.domestika.org/es/courses/55
     </div>
 </section>
 
-- [ShakuTaller](https://www.shakutaller.cl/): Lathe Workshop by Alejandro "Jano" Pérez. It is a two-day,  8 hours each, workshop focused on getting familiar with the lathe by completing four exercises: basic cuts and three artifacts. I made an kitchen rolling pin, a wooden cup and a spinning top with a long shaft.
+- [ShakuTaller](https://www.shakutaller.cl/): Lathe Workshop by Alejandro "Jano" Pérez. It is a two-day, 8 hours per day, workshop focused on getting familiar with the lathe by completing four exercises: basic cuts and three artifacts. I made an kitchen rolling pin, a wooden cup and a spinning top with a long shaft.
 
 <section class="gallery">
     <div>
