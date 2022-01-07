@@ -25,7 +25,7 @@ I teach classes as a way of pursuing that dream. I also teach because I am good 
 I was luck that my mother worked (she still does) at a biotechnology research lab. She bought a computer for our home when I was 5 years old. She made signed me up for an e-mail address when I was 8 (wich I still use). I built my own computer when I was 12 and, luckily, I learn to code at the age of 13, but it never drove my attention until I finished engineering school.
 
 My passion for computers started when I realized and understood, thoroughly, how they work and the impact of their development since the invention of the transistor. I decided to build this page because learnig about the web felt as a duty to me.
-### The love for crafts & arts
+### The love for arts & crafts
 When I was 7, my parents gave me a little book with diagrams for folding origami figures. Since then, the passion for *crafting* objects with my own hands has deep-rooted in me and I love learning different techniques of manipulating matter to create *things*. If I had not studied engineering, I would have studied industrial design.
 
 

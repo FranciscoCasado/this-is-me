@@ -3,7 +3,7 @@ layout: post
 title: "Sh*tty Robots "
 lang: en
 lang-ref: shitty-robots
-summary: "Robots mediocres, pero con buenas intenciones"
+summary: "Mediocre robots, but with good intentions"
 thumbnail: "assets/img/shitty_thumb.png"
 date: 2020-08-01
 ---
