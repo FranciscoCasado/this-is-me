@@ -10,7 +10,7 @@ date: 2021-10-01
 ---
 
 
-> **Sorry, I haven't traslated this post yet**. I you want to know more about this project, please send me an e-mail :)
+> **Sorry, I haven't traslated this post yet**. If you want to know more about this project, please send me an e-mail :)
 
 *La revolución de la industria 4.0 ya llegó a nuestra* **pequeña fábrica**, *una versión a escala de una industria completamente robotizada y teleoperada. En La pequeña fábrica existe  todo lo necesario para iniciarte en el mundo de la robótica, tanto la teoría como la práctica Conoce sobre mecánica, programación y el control de lo que sucede por detrás de un brazo robótico miniatura que puede realizar diversas tareas: apilar tus domino’s olvidados, dibujar tu nota final en el ramo y poder seguir objetos coloridos con un poquito de ayuda de visión computacional y "machine learning".*
 
