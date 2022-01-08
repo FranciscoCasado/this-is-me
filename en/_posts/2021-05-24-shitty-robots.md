@@ -8,7 +8,7 @@ thumbnail: "assets/img/shitty_thumb.png"
 date: 2020-08-01
 ---
 
-> **Sorry, I haven't traslated this post yet**. I you want more info in English, please write me an e-mail :)
+> **Sorry, I haven't traslated this post yet**. I you want to know more about this project, please send me an e-mail :)
 
 
 *Ante la imposibilidad de ir presencialmente a la facultad durante la pandemia, junto a un equipo interdisciplinario de ayudantes creamos un curso, material on-line y kits robótica para que estudiantes de 2do año de la [FCFM](https://ingenieria.uchile.cl/) pudiera aprender desde sus casas, todo en modalidad de clases remotas.*
