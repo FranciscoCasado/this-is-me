@@ -49,3 +49,14 @@ Ayudantes:
 
 - [FabLab U de Chile #LoMásGrande](http://www.fablab.uchile.cl/)
 - [Hélice - Escuela de Ingeniería y Ciencias](https://helice.ing.uchile.cl/)
+
+## Me invitaron a la radio para contarlo :radio:
+La conversación comienza en el minuto ~13:30.
+<iframe src="https://open.spotify.com/embed/episode/41tBf0KclYmQpq7Q0GyJQQ?utm_source=generator&theme=0" width="80%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+## También salimos en el diario :newspaper:
+Uno de nuestros estudiantes mostró súper emocionado el kit al periodista de Las Últimas Noticias
+
+<a href="https://www.lun.com/Pages/NewsDetail.aspx?dt=2020-12-03&EsAviso=0&PaginaId=24&bodyid=0">
+    <img src="https://images.lun.com/lunservercontents//ImgSocial/2020/dic/03/LUCPR24LU0312_768.jpg" width="80%">
+</a>
