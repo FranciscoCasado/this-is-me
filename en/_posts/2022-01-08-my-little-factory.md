@@ -22,7 +22,9 @@ Un espacio único para aprender robótica industrial: brazos robotizados, cintas
 ## Qué es
 Un curso y una plataforma modular de brazos robotizados y visión computacional de estándar comercial. Todo como una excusa divertida para aprender sobre robótica y manipuladores en modalidad presencial o remota. La *pequeña fábrica* está ubicada en el Laboratorio de Fabricación Digital de la [FCFM](https://ingenieria.uchile.cl/), de la Universidad de Chile.
 
-
+## Entrevista en el podcast *función docente* - FCFM :radio:
+El [Área para el Aprendizaje de Ingeniería y Ciencias](http://escuela.ingenieria.uchile.cl/docencia/a2ic/presentacion) (A2IC) de la FCFM me invitó a contar la historia de cómo surgió este proyecto y el impacto que tiene al presentarse como una innovación docente de alto impacto.
+<iframe src="https://open.spotify.com/embed/episode/2RzIsVlOLA3azDH2BrpjrA?utm_source=generator" width="80%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 ## Equipo
 
 Francisco Casado<br>
@@ -32,7 +34,7 @@ Cristóbal Mesías, estudiante de Ingeniería en Computación [:link:](https://g
 
 ## Agradecimientos
 Este proyecto ha sido gracias a aportes de: 
-- El [Área para el Aprendizaje de Ingeniería y Ciencias - A2IC](http://escuela.ingenieria.uchile.cl/docencia/a2ic/presentacion), de la FCFM
+- El [Área para el Aprendizaje de Ingeniería y Ciencias](http://escuela.ingenieria.uchile.cl/docencia/a2ic/presentacion) (A2IC), de la FCFM
 - [Open Beauchef](https://www.openbeauchef.cl/)
 - [Hélice, área de innovación de la Escuela de Ingeniería y Ciencias](https://helice.ing.uchile.cl/)
 
