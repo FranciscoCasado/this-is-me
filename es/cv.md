@@ -9,7 +9,7 @@ lang-ref: cv
 
 
 
-
+## Experiencia Laboral
 ### Coordinador de Beauchef Proyecta
 **UChile** | *jul 2019 - mar 2022*
 
@@ -32,7 +32,34 @@ Profesor de cursos de proyectos:
 - EL5002 Introducción al Taller de Diseño
 - EL5004 Taller de Diseño
 
+## Entrevistas en medios
 
+
+
+### Podcast Función Docente - FCFM 2022
+<iframe id="jovenes-estrellas" src="https://open.spotify.com/embed/episode/41tBf0KclYmQpq7Q0GyJQQ?utm_source=generator&theme=0" width="80%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+### Jóvenes Estrellas - TXS Radio 2020
+<iframe id="funcion-docente" src="https://open.spotify.com/embed/episode/2RzIsVlOLA3azDH2BrpjrA?utm_source=generator" width="80%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+
+## Publicaciones 
+
+### Revistas
+- *Complex Dielectric Permittivity of Engineering and 3D-Printing Polymersat Q-Band*, 2018, Journal of Infrarred, Millimeter and TeraHertz Waves.
+  
+  Nicolás Reyes, Francisco Casado, Valeria Tapia, Claudio Jarufe
+
+### Conferencias
+
+- *“Sh\*tty Robots: Si les estudiantes no pueden venir a la Universidad, la Universidad puede ir a sus casas”: Una experiencia de aprendizaje de robótica en la casa para estudiantes de segundo año.* 2021, XXXIII Congreso SOCHEDI.
+  
+  Francisco Casado, María José Alfaro, Ulises Campodónico, Fernanda Sanchirico, Cristóbal Mesías, Leslie Cárdenas.
+  
+- *Hackers, bandas y squads: Implementación de cursos flexibles para el desarrollo transversal de proyectos en la FCFM*, 2019, XXXII Congreso SOCHEDI.
+  
+  Matías Mattamala, María José Alfaro, Francisco Casado.
+  
 
 
 ## Participación en comisiones evaluadoras de título
