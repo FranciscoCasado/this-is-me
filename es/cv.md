@@ -7,15 +7,11 @@ lang: es
 lang-ref: cv
 ---
 
-## Estudios
-### Ingeniería Civil Eléctrica
-**Universidad de Chile** | *2018*
 
 
-## Experiencia
 
 ### Coordinador de Beauchef Proyecta
-**UChile** | *jul 2019 - presente*
+**UChile** | *jul 2019 - mar 2022*
 
 - Supervisión de cursos de proyectos y guía de proyectos estudiantiles interdisciplinarios, con foco en desarrollos tecnológicos,
 - Colaboración con otras unidades de la U de Chile que
@@ -39,6 +35,20 @@ Profesor de cursos de proyectos:
 
 
 
-<object data="{{ '/' | relative_url }}assets/docs/cv_francisco_casado.pdf" class="pdf-viewer" type="application/pdf" width="100%" height="100%">
-  <p>Si no ves el documento, puedes  <a href="{{ '/' | relative_url }}assets/docs/cv_francisco_casado.pdf">descargarlo en PDF :)</a></p>
-</object>
+## Participación en comisiones evaluadoras de título
+
+- Evaluación técnica y económica de la instalación de precipitadores electrostáticos como alternativa de mitigación a la contaminación atmosférica producida por artefactos a leña en la Comuna de Coyhaique [:link:](https://repositorio.uchile.cl/handle/2250/181770)
+  
+  *2021* - *Josefina Antonia Díaz Henríquez*
+  
+- Metodologías para la evaluación, caracterización y reutilización de baterías de litio en formato 18650 para aplicaciones de segunda vida [:link:](https://repositorio.uchile.cl/handle/2250/180038)
+  
+  *2021* - *Felipe Andrés Dupouy Cortés*
+
+- Diseño e implementación de sistema de control para robot Open Source tipo SCARA [:link:](https://repositorio.uchile.cl/handle/2250/177346)
+  
+  *2020* - *Felipe Germán Guajardo Mena*
+  
+- Implementación de un sistema de detección de residuos reciclables basado en visión computacional [:link:](https://repositorio.uchile.cl/handle/2250/178007)
+  
+  *2020* - *Matías Sebastián Saavedra Mayorga*
