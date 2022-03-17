@@ -224,3 +224,17 @@ body {
     font-style: normal;
     border-radius: 50%;
 }
+
+
+.cv h2 {
+    position: relative;
+    margin: 0.5rem 0;
+    border: 0;
+    border-bottom: 1px solid #eee;
+}
+
+.cv h3 {
+    position: relative;
+    margin: 0.5rem 0;
+    border: 0;
+}
