@@ -238,3 +238,14 @@ body {
     margin: 0.5rem 0;
     border: 0;
 }
+
+
+@media print {
+    .sidebar {
+        display: none;
+    }
+    
+    .content {
+        box-shadow: none;
+    }
+}
