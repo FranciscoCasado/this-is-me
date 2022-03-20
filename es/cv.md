@@ -37,10 +37,10 @@ Profesor de cursos de proyectos:
 
 
 ### Podcast Función Docente - FCFM 2022
-<iframe id="jovenes-estrellas" src="https://open.spotify.com/embed/episode/41tBf0KclYmQpq7Q0GyJQQ?utm_source=generator&theme=0" width="80%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<iframe id="funcion-docente" src="https://open.spotify.com/embed/episode/2RzIsVlOLA3azDH2BrpjrA?utm_source=generator" width="80%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 ### Jóvenes Estrellas - TXS Radio 2020
-<iframe id="funcion-docente" src="https://open.spotify.com/embed/episode/2RzIsVlOLA3azDH2BrpjrA?utm_source=generator" width="80%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<iframe id="jovenes-estrellas" src="https://open.spotify.com/embed/episode/41tBf0KclYmQpq7Q0GyJQQ?utm_source=generator&theme=0" width="80%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 
 ## Publicaciones 
