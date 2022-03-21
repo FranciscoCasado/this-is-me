@@ -250,19 +250,17 @@ body {
     }
 }
 
-.showcase {
-    display: flex; 
-    width: 100%;
-    flex-direction: row;
+
+details {
+    display: flex;
+    padding-left: 1.5em;
+    border: solid 1px #ccc;
+    border-radius: 5px;
+    justify-items: center;
+    align-items: center;
 }
 
-.showcase-item {
-    
-    display: block;
-    margin: 5px;
-}
-
-.showcase-item *{
-    display: block;
-    width: 100%;
+summary {
+    position: relative;
+    height: 2rem;
 }
