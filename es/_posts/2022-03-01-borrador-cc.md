@@ -28,7 +28,7 @@ Así es la vista actual: con 1 click se accede a toda la información.
 También tiene modo oscuro para cuidarse los :eyes:
 
 ### Estoy trabajando en la segunda versión
-Mucho más amigable, con menos texto y mejores marcadores visuales de contexto:
+Mucho más amigable, con menos texto y mejores marcadores visuales de contexto. Se estaría viendo mas o menos así, aunque la iconografía será distinta.
 
 ![borrador-cc-v2]({{ '/' | relative_url }}assets/img/borrador-cc-dark.png)
 ![borrador-cc-v2]({{ '/' | relative_url }}assets/img/borrador-cc-dark-2.png)

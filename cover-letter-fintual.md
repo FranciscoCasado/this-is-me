@@ -3,28 +3,21 @@ title: "Hola Fintual :wave:"
 lang: es
 lang-ref: cover-letter
 ---
-Nunca pensé que una oferta de trabajo iba a describir tan bien mi perfil profesional y no puedo dejar pasar la oportunidad de acercarme a materializar una ambición muy grande, **el sueño que tengo: que Chile tenga una industria de productos y sistemas tecnológicos de clase mundial**. 
-
-Ayer me enviaron la oferta de **líder pedagógico** y me voló la cabeza: **yo soy a quien buscan** y vengo preparándome desde hace mucho tiempo (sin haberlo sabido). 
+Ayer me enviaron la oferta de **líder pedagógico** y me voló la cabeza: **yo soy a quien buscan**. Nunca pensé que una oferta de trabajo iba a describir tan bien mi perfil profesional y este cargo es lo que busco para poder materializar **el sueño que tengo: que Chile tenga una industria de productos y sistemas tecnológicos de clase mundial**.
 
 Soy ingeniero porque me gusta *hacer cosas para las personas*. Me apasiona diseñar y construir productos y sistemas que resuelvan problemas reales. Tengo suficiente experiencia técnica y **me encanta programar y fabricar**: *bits & atoms*, como dicen en el MIT.
 
-**Tambien soy docente, desde mucho antes de ser ingeniero**: en el colegio fui el compañero que hacía “mini-clases”. Los primeros años de Universidad seguí yendo a mi colegio a hacer *clases de matemáticas avanzadas* a estudiantes que querían estudiar carreras científicas. En la Universidad fui ayudante desde 3er año de la carrera (hay al menos 2 devs de Fintual a quienes les hice clases).
+**Tambien soy docente, desde mucho antes de ser ingeniero**: en el colegio fui el compañero que hacía “mini-clases”, los primeros años de Universidad seguí yendo a mi colegio a hacer clases de matemáticas avanzadas a estudiantes que querían estudiar carreras científicas y en la Universidad fui ayudante desde 3er año de la carrera (hay al menos 2 devs de Fintual a quienes les hice clases).
 
-Durante mi vida laboral **he trabajado siempre en equipos interdisciplinarios**: psicólogas, educadores, vendedores, periodistas, técnicos, ingenieres y diseñadores. Gracias a ello he podido llevar a cabo procesos de enseñanza-aprendizaje innovadores y eficaces en mi trabajo más reciente: coordinador de Beauchef Proyecta (parte de OpenBeauchef). Ha sido una mezcla equilibrada de:
+Durante mi vida laboral **he trabajado siempre en equipos interdisciplinarios**: psicólogas, educadores, vendedores, periodistas, técnicos, ingenieres y diseñadores. Gracias a ello he podido implementar procesos de enseñanza-aprendizaje innovadores y eficaces en mi trabajo como docente en la Universidad de Chile.
 
-1. Gestión, juntar voluntades políticas, establecer lineamientos estratégicos y 
-2. **Crear y materializar nuevas formas de aprender y enseñar para les profesionales del siglo XXI que Chile necesita.** 
+He hecho de todo: gestionar personas y recursos, juntar voluntades políticas, establecer lineamientos estratégicos, pero lo más importante es que **he creado y materializado nuevas formas de aprender y enseñar** para les profesionales del siglo XXI que Chile necesita.
 
 Acá listo algunas experiencias que me han marcado y me llena de orgullo poder contárselas a ustedes. Espero les interesen para poder contarles más!
 
-- Cursos del Minor de Innovación y Emprendimiento: **¿Se imaginan tener cursos de proyectos libres, con créditos y sin clases, en la Universidad?** Logré *formalizar* un curso con una orgánica funcional, rúbricas de evaluación y metodologías de trabajo orientadas a la autogestión y automotivación, donde estudiantes pueden hacer el proyecto que quieran: desde fabricar un vehículo con motor a hidrógeno hasta empezar sus propios emprendimientos. En el curso reciben mentorías y se les reconoce su trabajo con créditos.
+- Cursos del Minor de Innovación y Emprendimiento: **¿Se imaginan tener cursos de proyectos libres, con créditos y sin clases, en la Universidad?** Formalicé un curso con una orgánica funcional, rúbricas de evaluación y metodologías de trabajo orientadas a la autogestión y automotivación. Les estudiantes pueden hacer el proyecto que quieran, desde un emprendimiento hasta gadgets tecnológicos. Durante el semestre reciben mentorías y se les reconoce su trabajo con créditos.
 
-    Para hacerlo tuve el privilegio de liderar un equipo de estudiantes increíbles, con quienes pude ensayar, fallar y aprender muchísimo.
-
-- **Invent For the Planet 2020**: lideré la coordinación de la sede en Chile de una hackathon de 48 horas, simultánea con 40 universidades alrededor del mundo. En 2 meses armamos todo (había explotado Chile justo antes). 
-
-    Llegaron estudiantes como pajarites y salieron empoderades, con sed de materializar sus ideas. Salieron en la tele y fueron la [portada editorial del LUN](https://www.lun.com/Pages/NewsDetail.aspx?dt=2020-02-17&EsAviso=0&PaginaId=20&bodyid=0).
+- **Invent For the Planet 2020**: lideré la coordinación de la sede en Chile de una hackathon de 48 horas, simultánea con 40 universidades alrededor del mundo. En 2 meses armamos todo (había explotado Chile justo antes). Salimos en la tele y el quipo ganador fue [portada editorial del LUN](https://www.lun.com/Pages/NewsDetail.aspx?dt=2020-02-17&EsAviso=0&PaginaId=20&bodyid=0).
     
     <details class="showcase">
     <summary>
@@ -41,24 +34,21 @@ Acá listo algunas experiencias que me han marcado y me llena de orgullo poder c
         <a href="https://www.lun.com/Pages/NewsDetail.aspx?dt=2020-02-17&EsAviso=0&PaginaId=20&bodyid=0">
         <img src="/assets/img/fintual/iftp-lun.jpeg">
         </a>
-        </div>
     </details>
 
 - **Sh*tty Robots** & **My Little Factory**: 
 
     *"Si les estudiantes no pueden venir, la Universidad debe llegar a sus casas"*
     
-    Durante la pandemia, diseñamos un kit de robótica -que enviamos por correspondencia- y clases para que estudiantes de 2do año no perdieran la experiencia irreemplazable de armar y tocar un robot.  
+    Durante la pandemia, diseñamos kits de robótica -que enviamos por correspondencia- y clases para que estudiantes de 2do año aprendieran a armar y programar un robot de manera autónoma y asistida por video-conferencia. Más tarde montamos una fábrica a escala en el FabLab de la U de Chile para que programaran y controlaran brazos robóticos desde sus casas.
     *fun-fact: lo hicimos un semestre antes que el MIT.*
-    
-    Más tarde montamos una *fábrica a escala* para que estudiantes de 2do año pudieran controlar un robot desde sus casas y así tener la experiencia de aprender robótica, visión computacional, aprendizaje de máquinas y otros temas avanzados, sin tener que salir de sus casas y controlando robots de verdad, a través de internet, instalados en el FabLab de la U de Chile.
     
     <details class="showcase">
     <summary>
     <em>videos y apariciones en medios</em>
     </summary>
         <li> Entrevista a un estudiante de Sh*tty Robots en Las Últimas Noticias</li>
-        <a href="http://www.lun.com:9999/lunmobile//pages/NewsDetailMobile.aspx?IsNPHR=1&dt=2020-12-03&NewsID=0&BodyId=0&PaginaID=24&Name=24&PagNum=2&SupplementId=0&Anchor=20201203_24_0_0">
+        <a href="https://www.lun.com/Pages/NewsDetail.aspx?dt=2020-12-03&NewsID=461787&BodyID=0&PaginaId=24">
         <img src="/assets/img/fintual/shitty.jpeg" >
         </a>
         
@@ -67,9 +57,9 @@ Acá listo algunas experiencias que me han marcado y me llena de orgullo poder c
         <iframe width="560" height="315" src="https://www.youtube.com/embed/FtLbufgrTRY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </details>
 
-Todas las cosas que he hecho han sido guiadas por el sueño que comenté al principio de esta carta porque una industria tecnológica de clase mundial es una necesidad urgente para Chile (... y LatAm).
+Todas las cosas que he hecho han sido guiadas por el sueño que comenté al principio de esta carta, porque creo firmemente que en Chile hay talento suficiente para generar una industria tecnológica de clase mundial y porque es una necesidad urgente.
 
-Quiero ser parte del proyecto que están armando y espero haber demostrado en esta carta que **ganas me sobran y tengo experiencia valiosa**.
+Quiero ser parte del proyecto que están armando y espero haber demostrado en esta carta que **ganas me sobran y tengo experiencia muy valiosa**.
 
 Gracias por leerme <3
 
