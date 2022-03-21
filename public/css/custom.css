@@ -249,3 +249,20 @@ body {
         box-shadow: none;
     }
 }
+
+.showcase {
+    display: flex; 
+    width: 100%;
+    flex-direction: row;
+}
+
+.showcase-item {
+    
+    display: block;
+    margin: 5px;
+}
+
+.showcase-item *{
+    display: block;
+    width: 100%;
+}
