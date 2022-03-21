@@ -26,7 +26,7 @@ Acá listo algunas experiencias que me han marcado y me llena de orgullo poder c
 
     Llegaron estudiantes como pajarites y salieron empoderades, con sed de materializar sus ideas. Salieron en la tele y fueron la [portada editorial del LUN](https://www.lun.com/Pages/NewsDetail.aspx?dt=2020-02-17&EsAviso=0&PaginaId=20&bodyid=0).
     
-    <details>
+    <details class="showcase">
     <summary>
     <em>videos y apariciones en medios</em>
     </summary>
@@ -53,7 +53,7 @@ Acá listo algunas experiencias que me han marcado y me llena de orgullo poder c
     
     Más tarde montamos una *fábrica a escala* para que estudiantes de 2do año pudieran controlar un robot desde sus casas y así tener la experiencia de aprender robótica, visión computacional, aprendizaje de máquinas y otros temas avanzados, sin tener que salir de sus casas y controlando robots de verdad, a través de internet, instalados en el FabLab de la U de Chile.
     
-    <details>
+    <details class="showcase">
     <summary>
     <em>videos y apariciones en medios</em>
     </summary>
@@ -67,7 +67,7 @@ Acá listo algunas experiencias que me han marcado y me llena de orgullo poder c
         <iframe width="560" height="315" src="https://www.youtube.com/embed/FtLbufgrTRY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </details>
 
-Todas las cosas que he hecho han sido guiadas por el sueño que comenté al principio de esta carta. Que Chile tenga una industria tecnológica de clase mundial es una necesidad urgente.
+Todas las cosas que he hecho han sido guiadas por el sueño que comenté al principio de esta carta porque una industria tecnológica de clase mundial es una necesidad urgente para Chile (... y LatAm).
 
 Quiero ser parte del proyecto que están armando y espero haber demostrado en esta carta que **ganas me sobran y tengo experiencia valiosa**.
 

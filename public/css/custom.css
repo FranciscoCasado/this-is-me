@@ -251,7 +251,7 @@ body {
 }
 
 
-details {
+.showcase {
     display: flex;
     padding-left: 1.5em;
     border: solid 1px #ccc;
@@ -260,7 +260,7 @@ details {
     align-items: center;
 }
 
-summary {
+.showcase summary {
     position: relative;
     height: 2rem;
 }
