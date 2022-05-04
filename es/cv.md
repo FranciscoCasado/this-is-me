@@ -64,6 +64,12 @@ Profesor de cursos de proyectos:
 
 ## Participación en comisiones evaluadoras de título
 
+- Desarrollo de producto de optimización para la empresa 1D-Solutions en base a algoritmos de inteligencia computacional  
+  *2022* - *Marcelo Enrique Jiménez Da Fonseca*
+  
+- Implementación de circuito para medir la eficiencia en la producción de energía en los paneles solares (suciedad, orientación y horarios del día) [:link:](https://repositorio.uchile.cl/handle/2250/184907)
+  *2022* - *Martín Domingo Cádiz Poblete*
+
 - Evaluación técnica y económica de la instalación de precipitadores electrostáticos como alternativa de mitigación a la contaminación atmosférica producida por artefactos a leña en la Comuna de Coyhaique [:link:](https://repositorio.uchile.cl/handle/2250/181770)
   
   *2021* - *Josefina Antonia Díaz Henríquez*
