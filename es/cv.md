@@ -64,7 +64,12 @@ Profesor de cursos de proyectos:
 
 ## Participación en comisiones evaluadoras de título
 
-- Desarrollo de producto de optimización para la empresa 1D-Solutions en base a algoritmos de inteligencia computacional  
+- Diseño de un sistema inteligente para la detección de plazas de estacionamientos libres  
+  
+  *2022* - *Carolina Del Carmen García Guerrero*
+
+
+- Desarrollo de producto de optimización para la empresa 1D-Solutions en base a algoritmos de inteligencia computacional [:link:](https://repositorio.uchile.cl/handle/2250/185775)
   
   *2022* - *Marcelo Enrique Jiménez Da Fonseca*
   
